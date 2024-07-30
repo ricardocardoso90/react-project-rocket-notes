@@ -1,14 +1,19 @@
-# Projeto Rocket Notes
+## Projeto: Rocket Notes
 
-Projeto desenvolvido durante o curso Ignite Lab da Rocketseat.
+**Tecnologias utilizadas:**
 
-Tecnologias utilizadas: React + TypeScript.
+- [Typescript]()
+- [Sass]()
+- [React Icons]()
+- [React Navigation]()
+- [Styled Components]()
+- [React Router Dom]()
 
-# Instalação:
+## Instalação:
 
 - `npm create vite@latest`
 - `npm i ou npm install`
 
-### Para rodar:
+## Para rodar:
 
 - `npm run dev`
