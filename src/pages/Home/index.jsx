@@ -43,7 +43,8 @@ export function Home() {
                 title: 'React Modal',
                 tags: [
                   { id: 1, name: 'React' },
-                  { id: 2, name: 'Rocketseat' }
+                  { id: 2, name: 'React Native' },
+                  { id: 2, name: 'Node' }
                 ]
               }
             }
